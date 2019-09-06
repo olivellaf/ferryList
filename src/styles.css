@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* GENERICS */
+.width95 { width: 95% !important; }
+
+
+.border-dotted { border: 1px dotted #ccc; }
+
+a.btn:hover,
+span.badge:hover { cursor: pointer; }
+
+.text-line-through { text-decoration: line-through !important; }
+
+
+/* END GENERICS */
+
+
+/* FORMS */
+.noborders { border: none; }
+
+/* END FORMS */
